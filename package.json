@@ -1,6 +1,6 @@
 {
   "name": "htmlhint",
-  "version": "0.9.14",
+  "version": "0.9.15",
   "description": "A Static Code Analysis Tool for HTML",
   "main": "./index",
   "dependencies": {
@@ -23,13 +23,13 @@
     "grunt-contrib-clean": "1.1.0",
     "grunt-contrib-concat": "1.0.1",
     "grunt-contrib-jshint": "1.1.0",
-    "grunt-contrib-uglify": "3.0.1",
+    "grunt-contrib-uglify": "3.1.0",
     "grunt-contrib-watch": "1.0.0",
     "grunt-exec": "3.0.0",
     "grunt-replace": "1.0.1",
     "istanbul": "0.4.5",
     "istanbul-coveralls": "1.0.3",
-    "mocha": "3.5.0"
+    "mocha": "3.5.3"
   },
   "bin": {
     "htmlhint": "./bin/htmlhint"
