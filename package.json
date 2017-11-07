@@ -4,7 +4,7 @@
   "description": "A Static Code Analysis Tool for HTML",
   "main": "./index",
   "dependencies": {
-    "async": "2.5.0",
+    "async": "2.6.0",
     "colors": "1.1.2",
     "commander": "2.11.0",
     "csslint": "1.0.5",
